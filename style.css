@@ -1,0 +1,39 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+}
+
+.main-block {
+  width: 700px;
+  height: 700px;
+  margin: 30px auto;
+  border: 1px solid black;
+}
+
+.block {
+  width: 70px;
+  height: 70px;
+  float: left;
+  text-align: center;
+  line-height: 4em;
+  font-weight: bold;
+  font-size: large;
+}
+
+.black {
+  background: black;
+  outline: 1px solid black;
+}
+
+.white {
+  outline: 1px solid black;
+  background: #DEB887;
+}
+
+.white2 {
+  outline: 1px solid black;
+  background: fff;
+}
